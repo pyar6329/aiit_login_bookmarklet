@@ -1,9 +1,9 @@
 # aiit_login_bookmarklet
 
-## 概要
+## What's this?
 ログイン認証を簡略化する**bookmarklet**です。
 
-## 設定
+## Installation
 1. どこのサイトでもいいので、ブックマークに新規登録
 2. **aiit_login_templete.js**の中身をコピー
 3. ブックマークの編集画面を開き、先程追加したブックマークのURL欄へペースト
@@ -13,7 +13,7 @@
 * あなたのユーザー名に**username**を入力
 * あなたのパスワードに**password**を入力
 
-## 使い方
+## How to use
 
 ###iOS7の場合
 
