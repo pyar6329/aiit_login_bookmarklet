@@ -1,0 +1,1 @@
+javascript:document.getElementById('user').value='あなたのユーザー名';document.getElementById('password').value='あなたのパスワード';document.getElementById('regform').submit();
