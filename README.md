@@ -31,3 +31,7 @@
 1. ブラウザを開き、どこかのサイトへアクセスする
 2. ログイン時にブックマークを選択します。
  
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pyar6329/aiit_login_bookmarklet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
